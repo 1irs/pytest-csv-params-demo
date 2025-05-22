@@ -98,4 +98,5 @@ This project is released under the MIT License.
 
 Created for educational and demonstration purposes as illustration to the blog posts:
 
-* https://first.institute/blog/vidokremyty-dani-vid-kodu-testuvannya-z-csv-pytest/
+* English: https://first.institute/en/blog/how-to-separate-test-data-from-code-csv-pytest/
+* Ukrainian: https://first.institute/blog/vidokremyty-dani-vid-kodu-testuvannya-z-csv-pytest/
