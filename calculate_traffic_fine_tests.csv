@@ -1,0 +1,5 @@
+speed,limit,zone,license_points,expected,msg
+50,50,residential,0,0,No speeding
+51,50,highway,0,50,Minimal speeding
+51,50,school,0,100,Near school 2x multiplier
+51,50,highway,1,75,Repeat violation
