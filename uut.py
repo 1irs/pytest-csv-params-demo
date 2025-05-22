@@ -12,7 +12,6 @@ def calculate_traffic_fine(speed: int, limit: int, zone: str, license_points: in
         int: Amount of the fine in dollars.
     """
     over_speed = speed - limit
-    base_fine = 0
 
     if over_speed <= 0:
         # No speeding — no fine applied
